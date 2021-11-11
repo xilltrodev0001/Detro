@@ -1,0 +1,23 @@
+{
+  "name": "Detro":
+  "author": "@Xilltro#0001":
+  "version": "3.10.5":
+  "main_file": "index.js":
+
+  "installs_and_updates": [
+   "discord.js": "^3.9.2":
+   "typescript.js": "^7.3.2":
+   "python": "3.9":
+   ]
+    "data": [
+      "owner_ids": [
+        "9726228262036202632":
+        "Discord.Owner.Of.Api":
+        ]
+        "database": [
+          "localhost": true
+          "port": 2323
+          "password": "youshallnotpass":
+          ]
+      ]
+}
