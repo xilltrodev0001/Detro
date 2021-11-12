@@ -1,0 +1,14 @@
+{
+  "methods": [
+    "PayPal": true
+    "CashApp": true
+    "Our Website": true
+    ]
+    "Links": {
+      "paypal": "https://paypal.me/user/xilltrodev":
+      "cashapp": "https://cashapp.com/give_money/user/xilltrodev":
+      "our_website": "https://detro.glitch.me/donate.html":
+      }
+    "Register.Methods":
+    "methodAccessOpen":
+}
