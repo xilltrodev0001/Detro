@@ -1,0 +1,30 @@
+{
+  "Bot_Client": {
+    "username": "Detro#3051":
+    "email": "support@detro.glitch.me":
+    "password": "detroiscoolasfongbestbot":
+    "downtime": "0":
+    "server": "https://detro.glitch.me":
+    "localhost": false
+    "2fa": "enabled": true
+}}
+
+{
+  "main_data": {
+    "author": "Detro LLC":
+    "description": "A Discord Bot":
+    "license": "Detro LLC":
+    "version": "1.20.5":
+    "install": "discord.js":
+    "install": "discord.py":
+    "permissions": [
+       "administrator": true
+       "manage_messages": true
+       "ban_members": true
+       "kick_members": true
+       "embed_links": true
+       ]
+       "slashcommands": {
+         "Enabled": true
+         }
+  }}
